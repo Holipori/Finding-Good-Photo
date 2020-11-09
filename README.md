@@ -5,10 +5,10 @@ Obtain the dataset (and code) from google drive: https://drive.google.com/file/d
 Unzip the data.zip and place the 'data/' folder alongside 'code/'.
 
 ## 2. Setup
-### 1. UsingMiniconda,createacondaenvironmentusingtheappropriatecommand.OnWindows, open the installed "Conda prompt" to run this command. On MacOS or Linux, you can just use a terminal window to run the command:
+1. UsingMiniconda,createacondaenvironmentusingtheappropriatecommand.OnWindows, open the installed "Conda prompt" to run this command. On MacOS or Linux, you can just use a terminal window to run the command:
 conda env create -f environment.yml
 
-### 2. This should create an environment named finalProject. Activate it using the following Windows command:
+2. This should create an environment named finalProject. Activate it using the following Windows command:
 conda activate finalProject
 
 or the following MacOS/Linux command:
